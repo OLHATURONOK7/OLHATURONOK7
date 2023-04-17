@@ -14,4 +14,8 @@
 
 
 
-Follow me
+## Follow me
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=4C6AFF)](https://www.facebook.com/profile.php?id=100002184412639)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=FF3091)](https://www.instagram.com/oturonok/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=20A6FF)](https://www.linkedin.com/in/olha-turonok-105531262/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2C8CC8)](https://t.me/olga5turonok)
