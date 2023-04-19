@@ -14,6 +14,8 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools&logoColor=2C8CC8)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-090909?style=for-the-badge&logo=SoapUI/&logoColor=FFC954)
+![Visualstudiocode](https://img.shields.io/badge/-Visualstudiocode-090909?style=for-the-badge&logo=Visualstudiocode/&logoColor=FFC954)
+
 
 
 
