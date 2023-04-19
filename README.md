@@ -4,6 +4,9 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1uMFWnYhpGbYyH2KHyNR57dmBEERd8DQl/view?usp=share_link)
 
+## Licenses & certifications
+[Link to my Certificate](https://drive.google.com/file/d/1WXAMkrvACrhUxzhqQB1CZF4pNbpNQwkH/view?usp=share_link)
+
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4038C8)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=C82E16)
